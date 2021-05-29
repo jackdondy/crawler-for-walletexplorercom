@@ -10,7 +10,7 @@ Use Multi-Thread to get the addresses of wallets & write them to folders under [
 Crawl the addresses of all wallets will take more than a month. 
 To use [this program](getWalletAddrsVisJSONAPI.py), please contact the owner of [walletexplorer](https://www.walletexplorer.com/) via email ales.janda@kyblsoft.cz for a JSON API, and fill the line 52 of [getWalletAddrsVisJSONAPI.py](getWalletAddrsVisJSONAPI.py).
 
-## .json files under [wallets](wallets)
+## the .json files under [wallets](wallets)
 Build time: 2021-5-12
 ## [wallets/page_num.txt](wallets/page_num.txt)
 Build time: 2021-5-15
