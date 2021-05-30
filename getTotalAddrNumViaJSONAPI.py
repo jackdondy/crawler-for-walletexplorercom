@@ -16,7 +16,7 @@ def thread(wallet_name):
     global _timeout, count_quick_response, time_gap, count_success_time
     url = "<to be fill>" + wallet_name + "<to be fill>"
 
-    print("Gettting: " + wallet_name)
+    print("Getting: " + wallet_name)
     try_times = 5
     while try_times > 0:
         try_times -= 1
