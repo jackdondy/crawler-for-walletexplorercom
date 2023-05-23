@@ -16,4 +16,4 @@ Build time: 2021-5-12
 Build time: 2021-5-15
 ## the zip files under [temp](temp)
 Time: 2021-5-13 to 2021-5-22.
-In the zip are two folders, corresponding to two wallets, but each of it doesn't contain all the addresses of the wallet.
+In the zip are two folders, corresponding to two wallets, but neither of them contains all the addresses of the wallet.
